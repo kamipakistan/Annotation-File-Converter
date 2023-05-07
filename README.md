@@ -1,7 +1,9 @@
 # Annotation File Converter
 Annotation File Converter is a GitHub repository that includes Python-based conversion scripts to convert annotations from one format to another. The repository provides conversion files for the following popular annotation formats:
 
-* COCO
+> coco2kitti have been added to the repo, soon we will add the other files too.
+
+* COCO 
 * KITTI
 * YOLO
 * LISA
